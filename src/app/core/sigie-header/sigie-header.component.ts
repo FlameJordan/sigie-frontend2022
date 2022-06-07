@@ -10,7 +10,6 @@ export class SigieHeaderComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-
   }
 }
 
