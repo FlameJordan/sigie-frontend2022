@@ -11,5 +11,5 @@ export class SigieHeaderComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
 }
+
